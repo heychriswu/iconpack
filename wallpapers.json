@@ -1,0 +1,39 @@
+{
+	"wallpapers": [
+		{
+			"name": "sunrise",
+			"author": "Pok_Rie",
+			"url": "https://pixabay.com/get/e833b50e21fd083ecd1f4207ef4d4295fe76e7d51bb8164694f7c0/seascape-1641999.jpg",
+			"dimensions": "2000 x 1332",
+			"copyright": "Copyright ¸ 2017 Pixabay. All rights reserved."
+		},
+		{
+			"name": "lovers",
+			"author": "cocoparisienne",
+			"url": "hhttps://pixabay.com/get/e837b00a29f2013ecd1f4207ef4d4295fe76e7d51bb8164696f4c8/human-1215160.jpg",
+			"dimensions": "3147 x 1581",
+			"copyright": "Copyright ¸ 2017 Pixabay. All rights reserved."
+		},
+		{
+			"name": "Earth",
+			"author": "WikiImages",
+			"url": "hhttps://pixabay.com/get/e834b4062de91c66d7584c04e24f5b97e677e0dc1eb614409c/earth-11595.jpg",
+			"dimensions": "2400 x 1200",
+			"copyright": "Copyright ¸ 2017 Pixabay. All rights reserved."
+		},
+		{
+			"name": "Ballon",
+			"author": "Bessi",
+			"url": "https://pixabay.com/get/eb31b00e20f1003ecd1f4207ef4d4295fe76e7d51bb8164693f5c8/parachoute-2411851.jpg",
+			"dimensions": "1920 x 1282",
+			"copyright": "Copyright ¸ 2017 Pixabay. All rights reserved."
+		},
+		{
+			"name": "Aurora",
+			"author": "JHypnoArt",
+			"url": "https://pixabay.com/get/eb31b70b21f0013ecd1f4207ef4d4295fe76e7d51bb8164692f4c8/aurora-borealis-2464940.jpg",
+			"dimensions": "5616 x 3744",
+			"copyright": "Copyright ¸ 2017 Pixabay. All rights reserved."
+		}
+	]
+}
