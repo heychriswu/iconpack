@@ -6,9 +6,16 @@
 			    "author": "Vincent Guth",
 			    "url": "https://github.com/iqiqiqi/iconpack/blob/master/wallpapers/Aurora.jpg",
 			    "thumbnail": "https://github.com/iqiqiqi/iconpack/blob/master/wallpapers/thumbnails/Aurora.jpg",
-			    "dimensions": "4000×2669",
+			    "dimensions": "1200×800",
 			    "copyright": "Free (do whatever you want)"
 			},
-			
+			{
+			    "name": "Aurora",
+			    "author": "Vincent Guth",
+			    "url": "https://github.com/iqiqiqi/iconpack/blob/master/wallpapers/Aurora.jpg",
+			    "thumbnail": "https://github.com/iqiqiqi/iconpack/blob/master/wallpapers/thumbnails/Aurora.jpg",
+			    "dimensions": "1200×800",
+			    "copyright": "Free (do whatever you want)"
+			},			
 		]
 }
